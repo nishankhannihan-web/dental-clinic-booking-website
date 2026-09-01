@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Dental Studio",
+  "description": "Premium modern dental clinic website featuring live appointment booking, dynamic services, and a comprehensive admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
